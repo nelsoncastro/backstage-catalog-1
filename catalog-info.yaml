@@ -3,11 +3,15 @@ kind: Component
 metadata:
   name: terroir-tracking-web
   description: Find where your juice comes from
+  tags:
+    - java
   links:
     - url: https://nelsoncastro.github.io
-      title: BIO NELSON
+      title: Admin Dashboard
       icon: dashboard
+      type: admin-dashboard
 spec:
   type: website
   lifecycle: production
   owner: nelsoncastro
+  system: public-websites
