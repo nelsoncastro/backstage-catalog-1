@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: terroir-tracking-web
   description: Find where your juice comes from
+  link: https://nelsoncastro.github.io
 spec:
   type: website
   lifecycle: production
