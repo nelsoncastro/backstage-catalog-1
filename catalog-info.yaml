@@ -13,5 +13,5 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: guests
+  owner: guest:nelsoncastro
   system: public-websites
